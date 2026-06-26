@@ -194,6 +194,7 @@ Thời gian thực hiện: (02 tiết)
 - *Sản phẩm*: Lời giải bài tập của học sinh.
 
 **4. Hoạt động 4: Vận dụng (5 phút)**
-- Giao bài tập về nhà: Tìm các ví dụ trong thực tế có hình dạng đồ thị hình sin.\`
+- Giao bài tập về nhà: Tìm các ví dụ trong thực tế có hình dạng đồ thị hình sin.`
   }
 ];
+
