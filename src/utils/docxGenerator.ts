@@ -394,7 +394,7 @@ export async function generateDocx(item: DocumentItem): Promise<Blob> {
       bodyParagraphs.push(
         new Paragraph({
           spacing: { before: 60, after: 60 },
-          indent: { left: 360, firstLine: -180 }, // Căn lề thụt đầu dòng bullet
+          indent: { left: 360, hanging: 180 }, // Căn lề thụt đầu dòng bullet (sử dụng hanging thay vì firstLine âm)
           children: [
             new TextRun({ text: "•  ", font: "Times New Roman", size: 26 }),
             ...parseInlineText(bulletText, { size: 13 }),
