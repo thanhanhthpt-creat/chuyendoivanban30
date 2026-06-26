@@ -1,0 +1,8 @@
+{
+  "name": "Chuyển Đổi Văn Bản Chatbot Sang Docx Nghị Định 30",
+  "description": "Ứng dụng chuyển đổi văn bản từ chatbot AI sang tệp Word (.docx) chuyên nghiệp, tự động định dạng Markdown, bảng biểu và công thức LaTeX theo chuẩn hành chính Nghị định 30/2020/NĐ-CP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
